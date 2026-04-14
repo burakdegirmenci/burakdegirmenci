@@ -77,17 +77,6 @@ I publish Turkish notes on **e-commerce, AI and digital growth** at **[burakdegi
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=burakdegirmenci&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=ffffff&bg_color=0a0a0a" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakdegirmenci&layout=compact&hide_border=true&title_color=2563EB&text_color=ffffff&bg_color=0a0a0a" />
-
-</div>
-
----
-
 ## Contact
 
 - Website — **[burakdegirmenci.me](https://burakdegirmenci.me)**
