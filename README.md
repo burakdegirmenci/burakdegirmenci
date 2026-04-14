@@ -66,36 +66,86 @@ Active work — some public, some private until ready.
 
 ## <img src="./icons/box.svg" width="22" align="center" /> Public Experiments
 
-<p>
-  <a href="https://github.com/burakdegirmenci/ticimax-meta-feed-generator">
-    <img src="https://github-readme-stats-ruby-rho.vercel.app/api/pin/?username=burakdegirmenci&repo=ticimax-meta-feed-generator&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
-  </a>
-  <a href="https://github.com/burakdegirmenci/galeri-yonetimi">
-    <img src="https://github-readme-stats-ruby-rho.vercel.app/api/pin/?username=burakdegirmenci&repo=galeri-yonetimi&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/burakdegirmenci/elleshoes-url-shorter">
-    <img src="https://github-readme-stats-ruby-rho.vercel.app/api/pin/?username=burakdegirmenci&repo=elleshoes-url-shorter&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
-  </a>
-  <a href="https://github.com/burakdegirmenci/FeedApp">
-    <img src="https://github-readme-stats-ruby-rho.vercel.app/api/pin/?username=burakdegirmenci&repo=FeedApp&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/burakdegirmenci/ProWidget">
-    <img src="https://github-readme-stats-ruby-rho.vercel.app/api/pin/?username=burakdegirmenci&repo=ProWidget&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[ticimax-meta-feed-generator](https://github.com/burakdegirmenci/ticimax-meta-feed-generator)**
+<br/>
+<img src="https://img.shields.io/badge/-C%23-2563EB?style=flat&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/-.NET%208-2563EB?style=flat&labelColor=0a0a0a" />
+<br/><br/>
+Meta (Facebook) catalog XML feed generator for Ticimax stores. Clean Architecture implementation.
+
+</td>
+<td width="50%" valign="top">
+
+**[galeri-yonetimi](https://github.com/burakdegirmenci/galeri-yonetimi)**
+<br/>
+<img src="https://img.shields.io/badge/-TypeScript-2563EB?style=flat&labelColor=0a0a0a" />
+<br/><br/>
+Gallery management system — admin UI for uploading, organizing and publishing product/category imagery.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[elleshoes-url-shorter](https://github.com/burakdegirmenci/elleshoes-url-shorter)**
+<br/>
+<img src="https://img.shields.io/badge/-TypeScript-2563EB?style=flat&labelColor=0a0a0a" />
+<br/><br/>
+Branded URL shortener — custom short links for campaign tracking and social posts.
+
+</td>
+<td width="50%" valign="top">
+
+**[FeedApp](https://github.com/burakdegirmenci/FeedApp)**
+<br/>
+<img src="https://img.shields.io/badge/-C%23-2563EB?style=flat&labelColor=0a0a0a" />
+<br/><br/>
+Product feed utility — transforms e-commerce catalog data into channel-specific feed formats.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[ProWidget](https://github.com/burakdegirmenci/ProWidget)**
+<br/>
+<img src="https://img.shields.io/badge/-JavaScript-2563EB?style=flat&labelColor=0a0a0a" />
+<br/><br/>
+Embeddable web widget — drop-in JS component for product showcases on third-party sites.
+
+</td>
+<td width="50%" valign="top">&nbsp;</td>
+</tr>
+</table>
 
 ---
 
-## <img src="./icons/bar-chart.svg" width="22" align="center" /> GitHub Stats
+## <img src="./icons/bar-chart.svg" width="22" align="center" /> Tech Stack
 
-<p>
-  <img src="https://github-readme-stats-ruby-rho.vercel.app/api?username=burakdegirmenci&show_icons=true&count_private=true&hide_border=false&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a" />
-  <img src="https://github-readme-stats-ruby-rho.vercel.app/api/top-langs/?username=burakdegirmenci&layout=compact&langs_count=8&hide_border=false&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&border_color=1a1a1a" />
-</p>
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/C%23-2563EB?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Node.js-2563EB?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0a0a" />
+
+**Infra & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Hetzner-2563EB?style=for-the-badge&logo=hetzner&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Coolify-2563EB?style=for-the-badge&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Cloudflare-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0a0a0a" />
+
+**AI Tools**
+<br/>
+<img src="https://img.shields.io/badge/Claude%20Code-2563EB?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Cursor-2563EB?style=for-the-badge&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Gemini-2563EB?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Imagen-2563EB?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0a0a" />
 
 ---
 
