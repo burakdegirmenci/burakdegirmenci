@@ -155,8 +155,7 @@ Turkish notes on **e-commerce, AI and digital growth** at **[burakdegirmenci.me]
 
 **Latest posts:**
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [GEO &lpar;Üretken Motor Optimizasyonu&rpar; Rehberi: 2026’da AI Yanıtlarında Nasıl Yer Alınır?](https://burakdegirmenci.me/geo-uretken-motor-optimizasyonu-rehberi-2026da-ai-yanitlarinda-nasil-yer-alinir/) <sub>— Feb 23, 2026</sub>- [Terk Edilen Sepet İçin E-mail Remarketing Stratejileri](https://burakdegirmenci.me/terk-edilen-sepet-icin-e-mail-remarketing-stratejileri/) <sub>— Feb 9, 2026</sub>- [Sepet Terk Etmeyi Azaltan UX İyileştirmeleri](https://burakdegirmenci.me/sepet-terk-etmeyi-azaltan-ux-iyilestirmeleri/) <sub>— Feb 9, 2026</sub>- [Ürün Sayfasında Satış Getiren “Güven Öğeleri” Nelerdir?](https://burakdegirmenci.me/urun-sayfasinda-satis-getiren-guven-ogeleri-nelerdir/) <sub>— Feb 9, 2026</sub>- [E-Ticaret Operasyonunda KPI Seti Nasıl Kurulur?](https://burakdegirmenci.me/e-ticaret-operasyonunda-kpi-seti-nasil-kurulur/) <sub>— Feb 9, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 ---
 
