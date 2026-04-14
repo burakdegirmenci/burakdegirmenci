@@ -68,23 +68,23 @@ Active work — some public, some private until ready.
 
 <p>
   <a href="https://github.com/burakdegirmenci/ticimax-meta-feed-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakdegirmenci&repo=ticimax-meta-feed-generator&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
+    <img src="https://github-readme-stats-ruby-rho.vercel.app/api/pin/?username=burakdegirmenci&repo=ticimax-meta-feed-generator&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
   </a>
   <a href="https://github.com/burakdegirmenci/galeri-yonetimi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakdegirmenci&repo=galeri-yonetimi&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
+    <img src="https://github-readme-stats-ruby-rho.vercel.app/api/pin/?username=burakdegirmenci&repo=galeri-yonetimi&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
   </a>
 </p>
 <p>
   <a href="https://github.com/burakdegirmenci/elleshoes-url-shorter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakdegirmenci&repo=elleshoes-url-shorter&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
+    <img src="https://github-readme-stats-ruby-rho.vercel.app/api/pin/?username=burakdegirmenci&repo=elleshoes-url-shorter&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
   </a>
   <a href="https://github.com/burakdegirmenci/FeedApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakdegirmenci&repo=FeedApp&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
+    <img src="https://github-readme-stats-ruby-rho.vercel.app/api/pin/?username=burakdegirmenci&repo=FeedApp&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
   </a>
 </p>
 <p>
   <a href="https://github.com/burakdegirmenci/ProWidget">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakdegirmenci&repo=ProWidget&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
+    <img src="https://github-readme-stats-ruby-rho.vercel.app/api/pin/?username=burakdegirmenci&repo=ProWidget&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
   </a>
 </p>
 
@@ -93,8 +93,8 @@ Active work — some public, some private until ready.
 ## <img src="./icons/bar-chart.svg" width="22" align="center" /> GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=burakdegirmenci&show_icons=true&count_private=true&hide_border=false&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakdegirmenci&layout=compact&langs_count=8&hide_border=false&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&border_color=1a1a1a" />
+  <img src="https://github-readme-stats-ruby-rho.vercel.app/api?username=burakdegirmenci&show_icons=true&count_private=true&hide_border=false&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a" />
+  <img src="https://github-readme-stats-ruby-rho.vercel.app/api/top-langs/?username=burakdegirmenci&layout=compact&langs_count=8&hide_border=false&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&border_color=1a1a1a" />
 </p>
 
 ---
