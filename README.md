@@ -97,4 +97,6 @@ I publish Turkish notes on **e-commerce, AI and digital growth** at **[burakdegi
 
 <sub><i>"Ideas are cheap. Shipping is the craft."</i></sub>
 
+
+
 </div>
