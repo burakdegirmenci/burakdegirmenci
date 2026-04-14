@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=220&section=header&text=Burak%20De%C4%9Firmenci&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=E-Commerce%20Specialist%20%C2%B7%20Builder&descAlignY=72&descSize=15" width="100%" />
+<img src="./banner.svg" width="100%" alt="Burak Değirmenci — E-Commerce Specialist · Builder" />
 
 <p>
-  <a href="https://burakdegirmenci.me"><img src="https://img.shields.io/badge/Website-burakdegirmenci.me-2563EB?style=for-the-badge&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/burak-degirmenci/"><img src="https://img.shields.io/badge/LinkedIn-burak--degirmenci-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=burakdegirmenci&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://burakdegirmenci.me"><img src="https://img.shields.io/badge/Website-burakdegirmenci.me-2563EB?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/burak-degirmenci/"><img src="https://img.shields.io/badge/LinkedIn-burak--degirmenci-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /></a>
+  <a href="https://github.com/burakdegirmenci?tab=followers"><img src="https://img.shields.io/github/followers/burakdegirmenci?style=for-the-badge&color=2563EB&labelColor=0a0a0a&label=Followers" alt="GitHub Followers" /></a>
 </p>
 
 </div>
 
 ---
 
-## About
+## <img src="./icons/user.svg" width="22" align="center" /> About
 
 ```ts
 const burak = {
@@ -44,9 +44,16 @@ const burak = {
 };
 ```
 
+<details>
+<summary>🇹🇷 Türkçe</summary>
+
+Yazılım kökenli e-ticaret operatörüyüm. Gündüz e-ticaret operasyonu, büyüme ve CRO üzerine çalışıyorum; geceleri yaşadığım operasyonel sorunları çözen AI destekli araçlar geliştiriyorum. Ticimax ekosistemi için MCP sunucuları, feed üretici ve admin araçları; moda/perakende için üretken AI (sanal deneme, katalog üretimi); müşteri desteği otomasyonu için self-hosted Chatwoot üzerinde deneyler yapıyorum. Felsefem: fikir ucuz, asıl zanaat shipping.
+
+</details>
+
 ---
 
-## Currently Building
+## <img src="./icons/layers.svg" width="22" align="center" /> Currently Building
 
 Active work — some public, some private until ready.
 
@@ -57,27 +64,53 @@ Active work — some public, some private until ready.
 
 ---
 
-## Public Experiments
+## <img src="./icons/box.svg" width="22" align="center" /> Public Experiments
 
-Small, honest, shipped.
-
-| Project | Stack | What it does |
-|---|---|---|
-| [ticimax-meta-feed-generator](https://github.com/burakdegirmenci/ticimax-meta-feed-generator) | C# / .NET 8 | Meta (Facebook) catalog XML feed generator for Ticimax stores, Clean Architecture |
-| [galeri-yonetimi](https://github.com/burakdegirmenci/galeri-yonetimi) | TypeScript | Gallery management system |
-| [elleshoes-url-shorter](https://github.com/burakdegirmenci/elleshoes-url-shorter) | TypeScript | Branded URL shortener |
-| [FeedApp](https://github.com/burakdegirmenci/FeedApp) | C# | Product feed utility |
-| [ProWidget](https://github.com/burakdegirmenci/ProWidget) | JavaScript | Embeddable web widget |
+<p>
+  <a href="https://github.com/burakdegirmenci/ticimax-meta-feed-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakdegirmenci&repo=ticimax-meta-feed-generator&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
+  </a>
+  <a href="https://github.com/burakdegirmenci/galeri-yonetimi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakdegirmenci&repo=galeri-yonetimi&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/burakdegirmenci/elleshoes-url-shorter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakdegirmenci&repo=elleshoes-url-shorter&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
+  </a>
+  <a href="https://github.com/burakdegirmenci/FeedApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakdegirmenci&repo=FeedApp&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/burakdegirmenci/ProWidget">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burakdegirmenci&repo=ProWidget&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a&hide_border=false" />
+  </a>
+</p>
 
 ---
 
-## Writing
+## <img src="./icons/bar-chart.svg" width="22" align="center" /> GitHub Stats
 
-I publish Turkish notes on **e-commerce, AI and digital growth** at **[burakdegirmenci.me](https://burakdegirmenci.me)** — CRO, SEO, AI workflows, and how a solo operator can move faster with LLMs.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=burakdegirmenci&show_icons=true&count_private=true&hide_border=false&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&icon_color=2563EB&border_color=1a1a1a" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakdegirmenci&layout=compact&langs_count=8&hide_border=false&bg_color=0a0a0a&title_color=2563EB&text_color=e0e0e0&border_color=1a1a1a" />
+</p>
 
 ---
 
-## Contact
+## <img src="./icons/edit.svg" width="22" align="center" /> Writing
+
+Turkish notes on **e-commerce, AI and digital growth** at **[burakdegirmenci.me](https://burakdegirmenci.me)** — CRO, SEO, AI workflows, and how a solo operator can move faster with LLMs.
+
+**Latest posts:**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## <img src="./icons/link.svg" width="22" align="center" /> Contact
 
 - Website — **[burakdegirmenci.me](https://burakdegirmenci.me)**
 - LinkedIn — **[burak-degirmenci](https://www.linkedin.com/in/burak-degirmenci/)**
@@ -85,7 +118,5 @@ I publish Turkish notes on **e-commerce, AI and digital growth** at **[burakdegi
 <div align="center">
 
 <sub><i>"Ideas are cheap. Shipping is the craft."</i></sub>
-
-
 
 </div>
