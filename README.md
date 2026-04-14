@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=180&section=header&text=Burak%20De%C4%9Firmenci&fontColor=ffffff&fontSize=52&fontAlignY=48&desc=E-Commerce%20Specialist%20%C2%B7%20Builder&descAlignY=72&descSize=16&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=220&section=header&text=Burak%20De%C4%9Firmenci&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=E-Commerce%20Specialist%20%C2%B7%20Builder&descAlignY=72&descSize=15" width="100%" />
 
 <p>
   <a href="https://burakdegirmenci.me"><img src="https://img.shields.io/badge/Website-burakdegirmenci.me-2563EB?style=for-the-badge&logoColor=white" alt="Website" /></a>
